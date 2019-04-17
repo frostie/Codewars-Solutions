@@ -6,7 +6,7 @@ class Main
        
      static int sum() 
      { 
-         int sum = 0; // initialize sum 
+         int sum = 0;
          int i; 
         
          for (i = 0; i < arr.length; i++) 
