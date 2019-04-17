@@ -10,11 +10,11 @@ class Main
     public static void main(String[] args)
     {
          int[] array = {3, 4, 7, 1};
-         
-         int max = java.util.Arrays.stream(array).max().getAsInt();
+        
          int min = java.util.Arrays.stream(array).min().getAsInt();
+         int max = java.util.Arrays.stream(array).max().getAsInt();
 
-         System.out.println("Largest number: " + max);
          System.out.println("Smallest number: " + min);
+         System.out.println("Largest number: " + max);
     }
 }
