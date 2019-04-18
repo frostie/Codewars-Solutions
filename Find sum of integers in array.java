@@ -1,4 +1,4 @@
-/* Find sum of elements in a given array  */
+/* Find sum of integers in a given array  */
 
 class Main 
 { 
